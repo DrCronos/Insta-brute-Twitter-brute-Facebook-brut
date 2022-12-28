@@ -42,7 +42,7 @@
  ### Installation
 - Install with one command (linux)
  
-      git clone https://github.com/SamueleAmato/SocialMediaHackingToolkit/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
+      git clone https://github.com/DrCronos/Insta-brute-Twitter-brute-Facebook-brut/ && cd "SocialMediaHackingToolkit" && cd src && python3 setup.py && cd .. && python3 smh.py 
   
 - Linux - Termux
 
